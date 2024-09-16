@@ -1,7 +1,3 @@
-Natürlich! Hier ist eine README-Dokumentation für das CNN-Beispiel:
-
----
-
 # CNN Beispiel für MNIST Klassifizierung
 
 Dieses Projekt enthält ein einfaches Convolutional Neural Network (CNN), das mit TensorFlow und Keras erstellt wurde, um Bilder von handgeschriebenen Ziffern aus dem MNIST-Datensatz zu klassifizieren. 
