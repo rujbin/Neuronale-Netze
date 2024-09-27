@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPooling2D
-
+(X_train, y_train), (X_test, y_test) = cifar10.load_data()
 X_train = X_train.astype(np.float32) / 255.
 X_test = X_test.astype(np.float32) / 255.
 
